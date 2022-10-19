@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [](https://kasia307584.github.io/challenge1/)
+- Live Site URL: [GitHub Pages link](https://kasia307584.github.io/challenge1/)
 
 ## My process
 
@@ -83,8 +83,8 @@ main {
 }
 ```
 
-- CSS can be written whithin the HTML file by using `<style>` tag placed inside `<head>` tag (but creating separate style.css file is recommended instead)
+- CSS can be written whithin the HTML file by using `<style>` tag placed inside `<head>` tag (but creating separate `style.css` file is recommended instead)
 
 ## Author
 
-- Frontend Mentor - [](https://www.frontendmentor.io/profile/Kasia307584)
+- Frontend Mentor - [My profile page](https://www.frontendmentor.io/profile/Kasia307584)

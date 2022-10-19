@@ -44,7 +44,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 </div>
 ```
 
-- Use `backround-attachment: fixed` (to be able to manipulate the position of the background)
+- Use `backround-attachment: fixed` (to be able to manipulate the position of the background images)
 
 ```css
 body {
@@ -55,6 +55,8 @@ body {
   background-attachment: fixed;
 }
 ```
+
+- Use `<main>` semantic tag (to mark the container of the main content of the body)
 
 ## Author
 

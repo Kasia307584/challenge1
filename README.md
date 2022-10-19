@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [GitHub Pages link](https://kasia307584.github.io/challenge1/)
+- Live Site URL: [GitHub Pages link](https://kasia307584.github.io/challenge_Profile-Card-Component/)
 
 ## My process
 
@@ -36,7 +36,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-- Use tables to structure the content (in simple layout, as alternative to flex and grid)
+- Use `<table>` to structure the content (in simple layout, as alternative to flex and grid)
 
 ```html
 <div class="numbers">

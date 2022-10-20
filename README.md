@@ -21,7 +21,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 
 ### What I learned
 
@@ -60,4 +59,4 @@ body {
 
 ## Author
 
-- Frontend Mentor - [My profile page link](https://www.frontendmentor.io/profile/Kasia307584)
+- Frontend Mentor - [My Profile Page link](https://www.frontendmentor.io/profile/Kasia307584)

@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-- Use `<table>` to structure the content (as alternative to flex and grid)
+- Use of `<table>` to structure the content (as alternative to flex and grid)
 
 ```html
 <div class="numbers">
@@ -44,7 +44,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 </div>
 ```
 
-- Use `backround-attachment: fixed` (to be able to manipulate the position of the background images)
+- Use of `backround-attachment: fixed` (to be able to manipulate the position of the background images)
 
 ```css
 body {
@@ -56,7 +56,7 @@ body {
 }
 ```
 
-- Use `<main>` semantic tag (to mark the container of the main content of the body)
+- Use of `<main>` semantic tag (to mark the container of the main content of the body)
 
 ## Author
 

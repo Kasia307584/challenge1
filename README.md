@@ -10,7 +10,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [GitHub Pages link](https://kasia307584.github.io/challenge_Profile-Card-Component/)
+- Live Site URL: [See the live page here](https://kasia307584.github.io/challenge_Profile-Card-Component/)
 
 ### The challenge
 
@@ -21,10 +21,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Built with
 
 - Semantic HTML5 markup
+- CSS3
 
 ### What I learned
 
-- Use `<table>` to structure the content (when simple layout, as alternative to flex and grid)
+- Use `<table>` to structure the content (as alternative to flex and grid)
 
 ```html
 <div class="numbers">
@@ -59,4 +60,4 @@ body {
 
 ## Author
 
-- Frontend Mentor - [My Profile Page link](https://www.frontendmentor.io/profile/Kasia307584)
+- Frontend Mentor - [See my solutions here](https://www.frontendmentor.io/profile/Kasia307584)
